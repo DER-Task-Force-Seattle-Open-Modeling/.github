@@ -1,6 +1,6 @@
 # Welcome to DER Task Force Seattle's Open Source Modeling Page 
 
-Our goal is to popularize Distributed Energy Resource (DER) modeling using open source data tools. Our project respositories explore technical, economic and geospatial aspects key to the global energy transition. 
+We seek to popularize Distributed Energy Resource (DER) modeling using open source data tools. Our project respositories explore technical, economic and geospatial aspects key to the global energy transition. 
 
 Visit our friends at [DER Task Force](https://www.dertaskforce.com/) and learn more about our [Seattle DER Group](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9). 
 
