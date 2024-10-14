@@ -1,51 +1,46 @@
 # DER and Open Source Data Modeling
 
-Welcome to [DER Task Force Seattle's](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9) Open Source Modeling Page 
+Welcome to [DER Task Force Seattle's](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9) Open Source Modeling Page.
 
 We popularize the art and science of Distributed Energy Resource (DER) modeling using open source data tools. Projects explore technical, economic and geospatial aspects critical to the global energy transition. 
 
-Visit our friends at [DER Task Force](https://www.dertaskforce.com/). 
+Visit the larger DER community at [DER Task Force](https://www.dertaskforce.com/). 
 
-![test](.github/profile/image/pnw_der_group.JPG)
+<p align="center">
+<img src="/image/pnw_der_group.JPG" 
+     height="300" />
+</p>
 
+**Table of Contents**
+- [Projects](#projects)
+- [Primary Toolset](#primary-toolset)
+- [Collaboration](#collaboration)
+- [Motivation](#motivation)
+- [Get Involved](#get-involved)
 
+# Projects
 
-- [Home for DER Modeling and Data Science](#DER-and-Open-Source-Data-Modeling)
-    - [About the Project](#about-the-project)
-    - [The Team](#the-team)
-    - [Contributing](#contributing)
-    - [Citing _The Turing Way_](#citing-the-turing-way)
-    - [Citing _The Turing Way_ Illustrations](#citing-the-turing-way-illustrations)
-    - [Get in Touch](#get-in-touch)
-      - [Email](#email)
-      - [Chat](#chat)
-      - [Receive Updates](#receive-updates)
-  - [Contributors](#contributors)
-  - [CROWDIN CONTRIBUTORS](#crowdin-contributors)
+Our projects are organicly created and have full creative license. 
 
+- Process to formalize project idea
+- Process to create Github project repository and landing page
 
-## Project Scope
-
-Projects are autonomous and have full creative license.
-We do aspire to provide uniformly accessible content. This means resources and reference materials are provided and some effort is made to bring a wider audience into the specific context of the project.
-
-This can be done in the Project landing page or in a Jupyter Notebook.
-
-### Default Toolset
+# Primary Toolset
+- Anaconda
 - Jupyter Notebook
-- Dataset (hosted on Github or available externally)
+- DER Datasets
 
-## Collaboration Protocol
+## Collaboration
 
+- Process to collaborate
 
 ## Contributors
 
 ## Motivation
 
-The full integration of Distributed Energy devices to the power system is a complex and demanding task. Bringing together DER expertise and data science is a critical part of the meeting the challenge
+Integrating DERs to the power system is a complex and demanding task. It is critical to bring together DER subject experts with data professionals to meet the historic challenge of reforming our electric system. 
 
-
-## How to Get Involved
+## Get Involved
 
 Send an email to pnwders
 
