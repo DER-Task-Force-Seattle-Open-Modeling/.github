@@ -6,15 +6,11 @@ We popularize the art and science of Distributed Energy Resource (DER) modeling 
 
 Visit our friends at [DER Task Force](https://www.dertaskforce.com/). 
 
-!(/pnw der group.jpg)
-
-
-![pnw der group](https://github.com/user-attachments/assets/bb55c051-1939-4432-9e0c-a0000a5e4867)
+![test](image/pnw_der_group.JPG)
 
 
 
-
-- [Your Home for DER Modeling and Data Science](#DER-and-Open-Source-Data-Modeling)
+- [Home for DER Modeling and Data Science](#DER-and-Open-Source-Data-Modeling)
     - [About the Project](#about-the-project)
     - [The Team](#the-team)
     - [Contributing](#contributing)
