@@ -19,29 +19,30 @@ Visit the larger DER community at [DER Task Force](https://www.dertaskforce.com/
 - [Get Involved](#get-involved)
 
 # Projects
-
 Our projects are organicly created and have full creative license. 
 
 - Process to formalize project idea
 - Process to create Github project repository and landing page
 
 # Primary Toolset
+Our projects generally use the following tools.
+
 - Anaconda
+- Python
 - Jupyter Notebook
-- DER Datasets
+- DER Datasets (of all types)
 
 ## Collaboration
 
+- Github org member versus public participants
 - Process to collaborate
 
 ## Contributors
+Who we are
 
 ## Motivation
-
 Integrating DERs to the power system is a complex and demanding task. It is critical to bring together DER subject experts with data professionals to meet the historic challenge of reforming our electric system. 
 
 ## Get Involved
-
-Send an email to pnwders
-
-or Fill out the Google Form here
+- Send us an [email](mailto:pnwdermeetups@gmail.com)
+- Fill out the [Google Survey](https://docs.google.com/forms/d/1jBoYVNBfwWmidBVIK7u5A1WbTVwE0-dx0F8262cLxnE/edit) to receive regular updates and meeting invites. 
