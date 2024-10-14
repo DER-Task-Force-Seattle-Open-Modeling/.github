@@ -6,7 +6,7 @@ We popularize the art and science of Distributed Energy Resource (DER) modeling 
 
 Visit our friends at [DER Task Force](https://www.dertaskforce.com/). 
 
-![test](image/pnw_der_group.JPG)
+![test](.github/profile/image/pnw_der_group.JPG)
 
 
 
