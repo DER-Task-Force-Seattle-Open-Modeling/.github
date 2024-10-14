@@ -1,17 +1,32 @@
-# Welcome to DER Task Force Seattle's Open Source Modeling Page 
+# DER and Open Source Data Modeling
 
-We seek to popularize Distributed Energy Resource (DER) modeling using open source data tools. Our project respositories explore technical, economic and geospatial aspects key to the global energy transition. 
+Welcome to [DER Task Force Seattle's](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9) Open Source Modeling Page 
 
-Visit our friends at [DER Task Force](https://www.dertaskforce.com/) and learn more about our [Seattle DER Group](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9). 
+We popularize the art and science of Distributed Energy Resource (DER) modeling using open source data tools. Projects explore technical, economic and geospatial aspects critical to the global energy transition. 
 
-<figure>
-<div style="text-align: center">
-<img src="pnw der group.jpg" 
-     align="center" 
-     width="500" />
-<figcaption>Seattle DER Group Meeting September 17, 2024</figcaption>
-</div>
-</figure>
+Visit our friends at [DER Task Force](https://www.dertaskforce.com/). 
+
+!(/pnw der group.jpg)
+
+
+![pnw der group](https://github.com/user-attachments/assets/bb55c051-1939-4432-9e0c-a0000a5e4867)
+
+
+
+
+- [Your Home for DER Modeling and Data Science](#DER-and-Open-Source-Data-Modeling)
+    - [About the Project](#about-the-project)
+    - [The Team](#the-team)
+    - [Contributing](#contributing)
+    - [Citing _The Turing Way_](#citing-the-turing-way)
+    - [Citing _The Turing Way_ Illustrations](#citing-the-turing-way-illustrations)
+    - [Get in Touch](#get-in-touch)
+      - [Email](#email)
+      - [Chat](#chat)
+      - [Receive Updates](#receive-updates)
+  - [Contributors](#contributors)
+  - [CROWDIN CONTRIBUTORS](#crowdin-contributors)
+
 
 ## Project Scope
 
