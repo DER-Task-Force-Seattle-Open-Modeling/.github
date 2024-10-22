@@ -15,33 +15,29 @@ Visit the larger DER community at [DER Task Force](https://www.dertaskforce.com/
 - [Projects](#projects)
 - [Primary Toolset](#primary-toolset)
 - [Collaboration](#collaboration)
-- [Motivation](#motivation)
 - [Get Involved](#get-involved)
 
 # Projects
-Our projects are organicly created and have full creative license. 
-
-- Process to formalize project idea
-- Process to create Github project repository and landing page
+Our projects are organicly created and have creative license to explore various topics. Typical project timeframes are 2-4 months. Projects may include:
+- Building energy modeling
+- Distributed energy modeling
+- Grid transformation and distributed energy integration
+- Techno-economic analysis
 
 # Primary Toolset
 Our projects generally use the following tools.
-
 - Anaconda
 - Python
-- Jupyter Notebook
+- Jupyter Notebooks
 - DER Datasets (of all types)
 
 ## Collaboration
-
-- Github org member versus public participants
-- Process to collaborate
-
-## Contributors
-Who we are
-
-## Motivation
-Integrating DERs to the power system is a complex and demanding task. It is critical to bring together DER subject experts with data professionals to meet the historic challenge of reforming our electric system. 
+Our project model follows the rough steps below:
+- New project ideas are surfaced to the group
+- A project lead writes up project concept and presents to the larger group
+- Collaborators express interest to the lead
+- The project lead creates a dedicated repository, checks in and organizes contributions
+- Project team finalizes project and presents to the larger group
 
 ## Get Involved
 - Send us an [email](mailto:pnwdermeetups@gmail.com)
